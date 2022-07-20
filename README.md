@@ -78,8 +78,8 @@ create table product
     'price' float 
 );
 
-Design front end using html,Css and bootstrap
-Using MVC pattern
+## step-3 Design front end using html,Css and bootstrap
+## step-4 Using MVC pattern
 
 
 
